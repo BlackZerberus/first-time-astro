@@ -1,5 +1,5 @@
 html {
-    background-color: #5e6770;
+    background-color: #cccfd2;
     font-family: sans-serif;
   }
   
@@ -80,4 +80,13 @@ html {
     display: none;
   }
 
+}
+
+.dark {
+  background-color: #0d0950;
+  color: #fff;
+}
+
+.dark .nav-links a {
+  color: #fff;
 }
